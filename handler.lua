@@ -1,5 +1,3 @@
--- Copyright (C) Kong Inc.
-
 local BasePlugin = require "kong.plugins.base_plugin"
 local nifcloud_v4 = require "kong.plugins.nifcloud-script.v4"
 local responses = require "kong.tools.responses"
